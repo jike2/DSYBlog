@@ -1,0 +1,12 @@
+{
+    "name": "cmstop/dsy-blog",
+    "authors": [
+        {
+            "name": "dsy",
+            "email": "1195224913@qq.com"
+        }
+    ],
+    "require": {
+        "elasticsearch/elasticsearch" : "~7.0"
+    }
+}
